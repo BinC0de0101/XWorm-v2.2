@@ -1,4 +1,5 @@
 # XWorm V2.2  
+## This RAT might be backdoored, please use in a VPS or VM only!  
 ![xworm](https://github.com/De-eloper/Image-Storage/raw/main/xwermm.PNG)  
 [Information]  
 [Monitor]  
