@@ -1,5 +1,5 @@
 # XWorm V2.2  
-# Status: Not working
+# Status: Uploading fix...
 ![xworm](https://github.com/De-eloper/Image-Storage/raw/main/xwermm.PNG)  
 [Information]  
 [Monitor]  
